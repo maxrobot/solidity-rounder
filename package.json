@@ -13,7 +13,7 @@
         "testrpc": "ganache-cli --port 8545 --gasLimit 0xFFFFFFFFFFF --gasPrice 0 --defaultBalanceEther 99999999999 --networkId 1234"
     },
     "license": "LGPL-3.0+",
-    "dependencies": {
+    "devDependencies": {
         "chai": "^4.2.0",
         "chai-as-promised": "^7.1.1",
         "ganache-cli": "6.1.0",
